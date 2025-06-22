@@ -1,0 +1,123 @@
+Project Title: Career Connect – A Student Mentorship Scheduler
+
+Overview: Create a Career Connect App, a responsive web application that allows students to:
+
+Log in securely.
+
+Explore and choose career paths based on keywords tied to one of the 17 Florida Career Clusters or Military careers.
+
+Browse and connect with experienced mentors.
+
+Save multiple mentors in a "cart" (like an ecommerce experience).
+
+Schedule 1-on-1 mentorship sessions with selected mentors.
+
+Key Features:
+
+🔐 User Login: Simple authentication for students.
+
+🔎 Career Discovery: Search careers via keywords tied to:
+
+17 Florida Career Clusters:
+
+Agriculture, Food, & Natural Resources
+
+Architecture & Construction
+
+Arts, A/V Technology & Communication
+
+Business Management & Administration
+
+Education & Training
+
+Energy
+
+Engineering & Technology Education
+
+Finance
+
+Government & Public Administration
+
+Health Science
+
+Hospitality & Tourism
+
+Human Services
+
+Information Technology
+
+Law, Public Safety & Security
+
+Manufacturing
+
+Marketing, Sales, & Service
+
+Transportation, Distribution, & Logistics
+
+Military Pathways
+
+👥 Mentor Matching: Connect with mentors by career cluster/military category.
+
+🛒 Mentor Cart: Add mentors to a cart-style list for review.
+
+📅 Session Scheduling: Book mentorship sessions one at a time.
+
+User Flow:
+
+Student logs in.
+
+Enters keywords related to career interests.
+
+Views matching mentors from selected clusters/military options.
+
+Adds mentors to a “cart” for review.
+
+Selects a mentor and schedules a session via a calendar interface.
+
+Design & UI Theme:
+
+Use a clean, modern layout with an inviting, educational tone.
+
+Primary Color Palette (Greens):
+
+Light Green: #71a875
+
+Medium Green: #3d8c42
+
+Dark Green: #1d4220
+
+Pale Green: #e5efe6
+
+Supporting Gold Tones:
+
+Light Gold: #e2cb7a
+
+Medium Gold: #d7b85e
+
+Dark Gold: #a88a2a
+
+Pale Gold: #f8f2dc
+
+Neutral Accents:
+
+Charcoal: #333333
+
+Slate: #5f6a72
+
+Silver: #d9d9d9
+
+Light Gray: #f5f5f5
+
+Accent Color:
+
+Red: #a73a3a (used sparingly for alerts or CTA highlights)
+
+Stretch Features (Optional):
+
+Notifications or reminders for upcoming sessions.
+
+Calendar integration (e.g. Google Calendar API).
+
+Admin dashboard for mentor management.
+
+Chat or messaging component.

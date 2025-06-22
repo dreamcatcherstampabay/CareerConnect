@@ -1,0 +1,94 @@
+ Student Profile + Career Keywords
+
+Build a **Student Profile Page** for the Career Connect App.
+
+### 🧑‍🎓 Page Goals:
+Create a user-friendly page where students can:
+1. View and edit their profile information (name, email, etc.)
+2. Add **career-related keywords** to their profile
+3. Select keywords from or enter keywords related to the **17 Florida Career Clusters + Military**
+4. Save their selected keywords for use in future mentor matching
+
+---
+
+### ✅ Page Requirements:
+- A form section to display and edit:
+  - Student name
+  - Email or username
+- A section to **add keywords**:
+  - Show a searchable list of career keywords (see below)
+  - Allow students to **click to add** keywords to their profile
+  - Display selected keywords as tags or a list
+  - Allow removal of selected keywords
+- A “Save” button to store profile + selected keywords
+
+---
+
+### 🎯 Career Clusters & Keywords (8th Grade Level)
+
+Use the following **5 keywords per cluster** to power the selection list and search:
+
+---
+
+#### 1. **Agriculture, Food, & Natural Resources**  
+farming, animals, plants, environment, food
+
+#### 2. **Architecture & Construction**  
+building, tools, design, homes, construction
+
+#### 3. **Arts, A/V Technology & Communication**  
+drawing, music, video, writing, speaking
+
+#### 4. **Business Management & Administration**  
+money, planning, office, manager, teamwork
+
+#### 5. **Education & Training**  
+teaching, classroom, learning, kids, school
+
+#### 6. **Energy**  
+electricity, power, solar, wind, energy
+
+#### 7. **Engineering & Technology Education**  
+machines, coding, design, invent, robotics
+
+#### 8. **Finance**  
+banking, money, budget, saving, investing
+
+#### 9. **Government & Public Administration**  
+law, voting, rules, community, leadership
+
+#### 10. **Health Science**  
+doctor, nurse, medicine, hospital, health
+
+#### 11. **Hospitality & Tourism**  
+travel, hotels, food, guests, service
+
+#### 12. **Human Services**  
+helping, family, support, social work, care
+
+#### 13. **Information Technology**  
+computers, apps, code, tech, internet
+
+#### 14. **Law, Public Safety & Security**  
+police, safety, law, fire, protect
+
+#### 15. **Manufacturing**  
+factory, machines, tools, parts, make
+
+#### 16. **Marketing, Sales, & Service**  
+selling, ads, store, customer, products
+
+#### 17. **Transportation, Distribution, & Logistics**  
+trucks, travel, planes, packages, delivery
+
+#### 18. **Military Careers**  
+soldier, army, navy, discipline, mission
+
+---
+
+### ✅ Success Criteria:
+- Student profile info is editable
+- Students can select and save career-related keywords
+- Keyword suggestions match the 18 categories
+- The selected keywords are shown and can be removed
+- Page is responsive and styled with Career Connect colors

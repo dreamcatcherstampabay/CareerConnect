@@ -1,0 +1,138 @@
+Career Connect App – Mentor Profiles & Search Functionality
+Build and test a Mentor Search Page in the Career Connect App. This page will allow students to search and explore mentors representing the 17 Florida Career Clusters and Military careers.
+
+🧑‍🏫 Goal:
+You will create and display 18 realistic mentor profiles, one for each career cluster, and allow users to search mentors using keywords or cluster names.
+
+🔨 Requirements:
+Create Mentor Data
+
+Define 18 faux mentor profiles using a JavaScript array of objects or JSON format.
+
+Each profile should include:
+
+Name
+
+Career title
+
+Associated career cluster
+
+Bio (1-2 sentences)
+
+A list of 4–6 keywords that relate to the mentor’s career
+
+Mentor Display Component
+
+Display all mentors in a scrollable, responsive grid or list
+
+Each mentor card should include:
+
+Name
+
+Career title
+
+Career cluster
+
+Bio or keyword tags
+
+Search Functionality
+
+Add a search input at the top of the page
+
+Filter the mentors live based on input
+
+Match against:
+
+Mentor keywords
+
+Cluster name
+
+Career title
+
+Make the search case-insensitive
+
+Test Search Cases
+
+The following searches should return the correct mentors:
+
+“doctor” → Health Science
+
+“plants” → Agriculture
+
+“robots” → Engineering
+
+“army” → Military
+
+“money” → Finance
+
+“video” → Arts/AV Tech
+
+“travel” → Hospitality or Transportation
+
+Optional Enhancements
+
+Highlight matching keywords in search results
+
+Make mentor cards clickable for future profile details
+
+Use a tag or pill UI to display selected keywords
+
+Animate search result transitions
+
+📚 Mentor List (One per Cluster):
+Dr. Maya Fields – Environmental Scientist (Agriculture) – farming, animals, plants, environment, food
+
+Carlos Bennett – Civil Engineer (Architecture & Construction) – building, tools, design, homes, construction
+
+Lena Rosario – Multimedia Artist (Arts) – drawing, music, video, writing, speaking
+
+Thomas Kim – Operations Manager (Business) – money, planning, office, manager, teamwork
+
+Maria Nunez – Teacher (Education) – teaching, classroom, learning, kids, school
+
+Devon Price – Energy Technician (Energy) – electricity, power, solar, wind, energy
+
+Angela Leung – Robotics Engineer (Engineering) – machines, coding, design, invent, robotics
+
+Raj Patel – Financial Advisor (Finance) – banking, money, budget, saving, investing
+
+Jasmine Carter – City Council Member (Gov & Public Admin) – law, voting, rules, community, leadership
+
+Dr. Isaiah Greene – Pediatrician (Health Science) – doctor, nurse, medicine, hospital, health
+
+Chloe Duval – Hotel Director (Hospitality) – travel, hotels, food, guests, service
+
+Darnell Reed – Counselor (Human Services) – helping, family, support, social work, care
+
+Zoey Wang – Software Developer (IT) – computers, apps, code, tech, internet
+
+Nathaniel Brooks – Police Officer (Law & Public Safety) – police, safety, law, fire, protect
+
+Emily Ortiz – Machine Operator (Manufacturing) – factory, machines, tools, parts, make
+
+Jared Lewis – Marketing Specialist (Marketing & Sales) – selling, ads, store, customer, products
+
+Kiana Thomas – Logistics Coordinator (Transportation) – trucks, travel, planes, packages, delivery
+
+Sgt. Leo Morales – Army Sergeant (Military) – soldier, army, navy, discipline, mission
+
+🎨 Design Guidelines:
+Match the Career Connect color theme (greens, golds, charcoal)
+
+Make the mentor display user-friendly and visually engaging
+
+Ensure mobile responsiveness
+
+✅ Success Checklist:
+ Mentor data is stored in your app
+
+ Mentors are displayed as styled cards
+
+ Search bar filters results in real-time
+
+ Search matches both cluster and keywords
+
+ Example test cases return correct mentors
+
+ Code is organized and easy to update
+
